@@ -18,7 +18,7 @@
 ### HTML & CSS
 > **Rainy Night City** syntax in HTML and CSS languages.
 
-[![Code_image](https://user-images.githubusercontent.com/27690717/131757823-67f0daa3-350e-459f-8ca9-41a0c8400423.png)](https://user-images.githubusercontent.com/27690717/131757823-67f0daa3-350e-459f-8ca9-41a0c8400423.png)
+[![Code_image](https://user-images.githubusercontent.com/27690717/131836745-555ac13a-e285-41e0-b5b9-307369b3f8f9.png)](https://user-images.githubusercontent.com/27690717/131836745-555ac13a-e285-41e0-b5b9-307369b3f8f9.png)
 
 ### Install
 >This syntax theme can be activated by going to the **Settings** > **Themes** section and selecting **Rainy Night City** from the **Syntax Theme** drop-down menu.
