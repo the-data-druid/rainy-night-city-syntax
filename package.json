@@ -8,7 +8,8 @@
     "night",
     "city",
     "syntax",
-    "theme"
+    "theme",
+    "syntax-theme"
   ],
   "repository": "https://github.com/heartshapedbox/rainy-night-city-syntax",
   "license": "MIT",
