@@ -1,0 +1,18 @@
+{
+  "name": "rainy-night-city-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Rainy Night City syntax theme.",
+  "keywords": [
+    "rain",
+    "night",
+    "city",
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/rainy-night-city-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
