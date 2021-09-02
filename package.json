@@ -9,7 +9,12 @@
     "city",
     "syntax",
     "theme",
-    "syntax-theme"
+    "syntax-theme",
+    "atom",
+    "dark-theme",
+    "themes",
+    "colour-scheme",
+    "colourscheme"
   ],
   "repository": "https://github.com/heartshapedbox/rainy-night-city-syntax",
   "license": "MIT",
