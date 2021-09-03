@@ -1,7 +1,7 @@
 # Rainy Night City
 >Dark **syntax theme** with bright colors for [Atom](https://atom.io).
 
-[![Rainy_Night_City_image]((https://user-images.githubusercontent.com/27690717/132060776-9af41ac8-842e-4fc8-b382-983fb7aa7520.png)]((https://user-images.githubusercontent.com/27690717/132060776-9af41ac8-842e-4fc8-b382-983fb7aa7520.png)
+[![Rainy_Night_City_image](https://user-images.githubusercontent.com/27690717/132060776-9af41ac8-842e-4fc8-b382-983fb7aa7520.png)](https://user-images.githubusercontent.com/27690717/132060776-9af41ac8-842e-4fc8-b382-983fb7aa7520.png)
 
 >**Rainy Night City** syntax theme is inspired by a city which is wrapped by a night, rain, signs, bright lights and bokeh. It uses calm colors for background, gutter, guides, brackets and main text, but all **important syntax** of code is highlighted with bright colors that make it easy to find part of code you are looking for.
 
