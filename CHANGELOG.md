@@ -3,3 +3,4 @@
 ## 0.1.2 - Minor Updates: images replaced with new ones, description updated etc.
 ## 0.1.5 - Minor changes: description updated.
 ## 0.1.8 - Minor changes in base.less file.
+## 0.1.9 - Some change in base.less file.
